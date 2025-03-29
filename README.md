@@ -4,9 +4,17 @@ Welcome to the CADD Successful Story repository! This project showcases a collec
 
 Feel free to dive into the code, case studies, and documentation—contributions and feedback are always welcome!
 
-
 ## 1. Nirmatrelvir
 
 Nirmatrelvir is an antiviral medication used to treat COVID-19. It is typically taken in combination with another antiviral drug, ritonavir. 
 
 It works by inhibiting the protease enzyme (M<sup>pro</sup> ) of the SARS-CoV-2 virus, which is essential for the virus to replicate. By blocking this enzyme, nirmatrelvir prevents the virus from multiplying in the body.
+
+![](C:\Users\chenx\AppData\Roaming\marktext\images\2025-03-28-22-37-05-image.png)
+
+The ring structure highlighted in this figure is designed by using modeling. 
+
+> We modeled a number of ring sizes produced by cyclizing the P2
+> tert-leucine onto the P3 backbone amide NH and landed on
+> proline derivatives.
+> (page C)
